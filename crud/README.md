@@ -87,3 +87,5 @@ Build the app
 ```shell
 npm run build
 ```
+
+https://www.youtube.com/watch?v=VRCcUlUTjfc&list=PLfmLaK4JnnhI11UbUG4II3yAH2PHjhMZF&index=7
